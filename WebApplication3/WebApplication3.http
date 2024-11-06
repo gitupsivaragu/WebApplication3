@@ -1,0 +1,6 @@
+@WebApplication3_HostAddress = http://localhost:5091
+
+GET {{WebApplication3_HostAddress}}/Authendication/
+Accept: application/json
+
+###
